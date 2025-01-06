@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HotelApp": {
+      "commandName": "Project",
+      "commandLineArgs": "--hotels C:\\Users\\kurek\\Desktop\\hotels.json --bookings bookings.json"
+    }
+  }
+}
